@@ -1,0 +1,31 @@
+[
+    {
+        "caption": "Preferences",
+        "mnemonic": "n",
+        "id": "preferences",
+        "children":
+        [
+            { "caption": "-" },
+            {
+                "command": "open_file",
+                "args":
+                {
+                    "file": "${packages}/User/Main.sublime-menu",
+                    "contents": "[\n\t$0\n]\n"
+                },
+                "caption": "Menu Settings – User"
+            },
+            { "caption": "-" }
+        ]
+    },
+    {
+        "caption": "Frequent D",
+        "mnemonic": "D",
+        "id": "frequent",
+        "children":
+        [
+            { "caption": "Blame", "command": "git_blame" },
+		    { "caption": "Center", "command": "show_at_center" }
+        ]
+    }
+]

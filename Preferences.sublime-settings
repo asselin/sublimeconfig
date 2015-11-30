@@ -1,0 +1,19 @@
+{
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Theme - Cobalt2/cobalt2.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Hack",
+	"font_size": 10,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+		"GitGutter",
+		"Vintage"
+	],
+	"theme": "Cobalt2.sublime-theme",
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
+	"xcolor_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
+	"xsoda_classic_tabs": true,
+	"xtheme": "Soda Light 3.sublime-theme"
+}

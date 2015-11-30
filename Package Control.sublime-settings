@@ -1,0 +1,24 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AMD-Module-Editor",
+		"BracketHighlighter",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"JSHint Gutter",
+		"JSON Reindent",
+		"LESS",
+		"Monokai Extended",
+		"Origami",
+		"Package Control",
+		"Sass",
+		"SideBarEnhancements",
+		"Theme - Cobalt2",
+		"Theme - Soda"
+	]
+}
