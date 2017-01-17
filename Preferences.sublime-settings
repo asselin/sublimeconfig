@@ -12,8 +12,5 @@
 	],
 	"theme": "Cobalt2.sublime-theme",
 	"trim_trailing_white_space_on_save": true,
-	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?",
-	"xcolor_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
-	"xsoda_classic_tabs": true,
-	"xtheme": "Soda Light 3.sublime-theme"
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
