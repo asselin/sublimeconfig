@@ -25,7 +25,8 @@
         "children":
         [
             { "caption": "Blame", "command": "git_blame" },
-		    { "caption": "Center", "command": "show_at_center" }
+            { "caption": "Center", "command": "show_at_center" },
+            { "caption": "Prettify", "command": "htmlprettify" }
         ]
     }
 ]
