@@ -1,0 +1,13 @@
+code --install-extension abhiagr.logcat
+code --install-extension adammaras.overtype
+code --install-extension alefragnani.Bookmarks
+code --install-extension be5invis.vscode-icontheme-nomo-dark
+code --install-extension CoenraadS.bracket-pair-colorizer
+code --install-extension DotJoshJohnson.xml
+code --install-extension eamodio.gitlens
+code --install-extension HookyQR.beautify
+code --install-extension kaiwood.center-editor-window
+code --install-extension ms-vscode.sublime-keybindings
+code --install-extension octref.vetur
+code --install-extension tombonnike.vscode-status-bar-format-toggle
+code --install-extension wesbos.theme-cobalt2
